@@ -1,12 +1,10 @@
-// Organizer Page css
-
-.wcorg-organizer:nth-child(2n+1) {
-    clear: both;
-}
 .wcorg-organizer {
     float: left;
     padding: 0 3%;
     width: 50%;
+}
+.wcorg-organizers .wcorg-organizer:nth-child(2n+1) {
+      clear: both;
 }
 .wcorg-organizer .sd-like {
   display: none;
