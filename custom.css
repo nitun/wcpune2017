@@ -29,3 +29,44 @@ background: #B4A985;
 text-align: center;
 font-size: 18px;
 margin-top: 15px;}
+
+td.wcb-session-registration-breakfast-bingo, td.wcb-session-speaker-introduction-quiz,
+td.wcb-session-break,
+td.wcb-session-lunch-break,
+td.wcb-session-tea-break,
+td.wcb-session-high-tea,
+td.wcb-session-final-break,
+td.wcb-session-closing,
+td.wcb-session-after-party {
+    text-align: center;
+}
+td.wcpt-time {
+    padding: 50px 40px;
+}
+td.wcb-session-panel-products-vs-services-better-model-for-new-businesses, 
+td.wcb-session-panel-careers-in-wordpress-for-non-developers,
+td.wcb-session-2-for-1-session-a-video-conversation-about-wordpress-in-india {
+    border-bottom: none;
+    position: relative;
+}
+td.wcb-session-panel-products-vs-services-better-model-for-new-businesses a,
+td.wcb-session-panel-careers-in-wordpress-for-non-developers a { 
+position: absolute;
+    width: 125px;
+    top: 150px; }
+
+td.wcb-session-2-for-1-session-a-video-conversation-about-wordpress-in-india a {
+position: absolute;
+    width: 100%;
+    top: 120px;
+}
+td.wcb-session-2-for-1-session-a-video-conversation-about-wordpress-in-india span {
+position: absolute;
+    width: 100%;
+    top: 120px;
+}
+
+.wcpt-time-410pm .wcpt-session-empty,
+.wcpt-time-350pm .wcpt-session-empty { 
+border-bottom: none; border-top:none;
+}
