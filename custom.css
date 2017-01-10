@@ -9,3 +9,23 @@
 .wcorg-organizer .sd-like {
   display: none;
 }
+
+section div.gold .sponsor-level-title {
+background: #f7e59d;
+text-align: center;
+font-size: 18px;
+}
+
+
+section div.silver .sponsor-level-title {
+background: #EFF1ED;
+text-align: center;
+font-size: 18px;
+margin-top: 15px;}
+
+
+section div.bronze .sponsor-level-title{
+background: #B4A985;
+text-align: center;
+font-size: 18px;
+margin-top: 15px;}
